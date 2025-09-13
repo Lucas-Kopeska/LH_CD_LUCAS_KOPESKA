@@ -14,7 +14,7 @@ O projeto consiste em um desafio cujo objetivo é desenvolver um modelo de predi
 1. ## Abra o Um Novo Notebook no Google Colab
    - clique no seguinte link -> https://colab.research.google.com/github/Lucas-Kopeska/LH_CD_LUCAS_KOPESKA/blob/main/modelo_final_imdb.ipynb
   
-2. ## Faça o Uploado do Dataframe
+2. ## Faça o Upload do Dataframe
    - clique em arquivos e faça o upload do arquivo "desafio_indicium_imdb.csv"
 
 3. ## Rode o Modelo
